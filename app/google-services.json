@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19878641698",
+    "project_id": "fir-app-40db1",
+    "storage_bucket": "fir-app-40db1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19878641698:android:aa90cbc533757d87a58a7b",
+        "android_client_info": {
+          "package_name": "io.ravecode.firebaseauthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEGR2DBcoM7xS3bnmDkvxbzGemMMJs8Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
